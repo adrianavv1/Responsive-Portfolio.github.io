@@ -1,5 +1,26 @@
 * {
-    font-family:
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     
+}*/
+
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUckLD7WkNr3t2bXE83rCnINMA7pkoxub4vA&usqp=CAU");
+    background-color: #cccccc;
+    border-style: thick;
+    border-color: hsl(0, 17%, 92%); /* white */
+   }
+
+/*this is for id element*/
+#hello {
+    color: orange;
 }
 
-<
+/*class*/
+.profile-pic {
+    width: 275px;
+}
+
+/*Nav Bar*/
+#navbar {
+    color:mrgba(128, 96, 61, 0.89)
+}
